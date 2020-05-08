@@ -1,0 +1,13 @@
+{
+  "name": "Sentiment",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/krozzle/Sentiment.git",
+  "author": "Christopher Wattaul <chris.wattaul@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "node-fetch": "^2.6.0",
+    "request": "^2.88.2"
+  }
+}
