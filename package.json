@@ -6,7 +6,7 @@
   "author": "Christopher Wattaul <chris.wattaul@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.20.0",
     "node-fetch": "^2.6.0",
     "request": "^2.88.2"
   }
